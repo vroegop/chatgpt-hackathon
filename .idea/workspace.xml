@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27bbea64-4d08-4488-bdc9-cb1f47890cb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/luminis-accelerate-hackathon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/key.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-openai.js" beforeDir="false" afterPath="$PROJECT_DIR$/chat-openai.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/key.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/key.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/key.mjs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684942396431</updated>
-      <workItem from="1684942397736" duration="1510000" />
+      <workItem from="1684942397736" duration="2376000" />
     </task>
     <servers />
   </component>
