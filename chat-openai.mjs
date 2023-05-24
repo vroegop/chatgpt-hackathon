@@ -1,4 +1,4 @@
-import { openai } from './key.js';
+import { openai } from './key.mjs';
 
 // Connects to ChatGPT to get a chat response
 export async function getChatGPTResponse(messages, { model, max_tokens, temperature } = { model: 'gpt-3.5-turbo', max_tokens: 200, temperature: 0.5 }) {

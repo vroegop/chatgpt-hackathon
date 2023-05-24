@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="425c7726-9456-45fd-bbb1-c2c8e3ed63e3" name="Changes" comment="" />
+    <list default="true" id="27bbea64-4d08-4488-bdc9-cb1f47890cb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/luminis-accelerate-hackathon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/key.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-openai.js" beforeDir="false" afterPath="$PROJECT_DIR$/chat-openai.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/key.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +26,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2QFBGW2N2BOzEOv5vKjuXtEK5dk" />
+  <component name="ProjectId" id="2QFHQw8BOL249KN45twhLkOB475" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,15 +49,33 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="RunManager" selected="Node.js.index.mjs">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/luminis-accelerate-hackathon/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="chat-openai.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chat-openai.mjs" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.mjs" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.mjs" />
+        <item itemvalue="Node.js.chat-openai.mjs" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="425c7726-9456-45fd-bbb1-c2c8e3ed63e3" name="Changes" comment="" />
-      <created>1684939354011</created>
+      <changelist id="27bbea64-4d08-4488-bdc9-cb1f47890cb7" name="Changes" comment="" />
+      <created>1684942396431</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1684939354011</updated>
-      <workItem from="1684939355034" duration="2544000" />
+      <updated>1684942396431</updated>
+      <workItem from="1684942397736" duration="1510000" />
     </task>
     <servers />
   </component>
