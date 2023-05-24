@@ -1,4 +1,3 @@
 const openai = '';
-const elevenlabs = '';
 
-export { openai, elevenlabs };
+export { openai };
