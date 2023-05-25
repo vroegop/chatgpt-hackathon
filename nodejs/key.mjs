@@ -1,0 +1,3 @@
+const openai = '';
+
+export { openai };

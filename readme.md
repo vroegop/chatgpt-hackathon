@@ -3,17 +3,22 @@
 ## Hoe werkt het?
 *Disclaimer: je moet uiteraard Node (recente versie) of Python3 installeren!*
 
-* **HTML:** Run de index.html in een webserver
-  > npx live-server
-* **NodeJS:** Run de index.mjs via node (mjs staat voor Module JavaScript)
-  > node index.mjs
-* **Python:** Run de index.py via Python3
-  > python3 index.py
-* **Java:** Compile and run the code
-  > javac -d out *.java
+* **HTML:**
+  > cd html
   > 
-  > java -cp out Index
-  * Or use your favorite IDE ;) 
+  > npx live-server
+* **NodeJS:**
+  > cd nodejs
+  > 
+  > node index.mjs
+* **Python:**
+  > cd python
+  >
+  > python3 index.py
+* **Java:**
+  > cd java
+  >
+  > javac -d out *.java && java -cp out Index
 
 ## Wat doen we?
 
