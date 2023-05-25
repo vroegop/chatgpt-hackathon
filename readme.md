@@ -4,11 +4,16 @@
 *Disclaimer: je moet uiteraard Node (recente versie) of Python3 installeren!*
 
 * **HTML:** Run de index.html in een webserver
-  * > npx live-server
+  > npx live-server
 * **NodeJS:** Run de index.mjs via node (mjs staat voor Module JavaScript)
-  * > node index.mjs
+  > node index.mjs
 * **Python:** Run de index.py via Python3
-  * > python3 index.py
+  > python3 index.py
+* **Java:** Compile and run the code
+  > javac -d out *.java
+  > 
+  > java -cp out Index
+  * Or use your favorite IDE ;) 
 
 ## Wat doen we?
 
