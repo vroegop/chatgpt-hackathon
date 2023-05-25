@@ -49,10 +49,7 @@ public class ChatOpenai {
         jsonBuilder.append("\"model\": \"" + model + "\",");
         jsonBuilder.append("\"messages\": [");
         for (Message message : messages) {
-            jsonBuilder.append("{");
-            jsonBuilder.append("\"role\": \"" + message.getRole() + "\",");
-            jsonBuilder.append("\"content\": \"" + message.getContent() + "\"");
-            jsonBuilder.append("},");
+            jsonBuilder.append(message.toString());
         }
         jsonBuilder.deleteCharAt(jsonBuilder.length() - 1); // Remove the last comma
         jsonBuilder.append("],");
@@ -92,6 +89,15 @@ public class ChatOpenai {
 
         public String getContent() {
             return content;
+        }
+
+        public String toString() {
+            StringBuilder jsonBuilder = new StringBuilder();
+            jsonBuilder.append("{");
+            jsonBuilder.append("\"role\": \"" + getRole() + "\",");
+            jsonBuilder.append("\"content\": \"" + getContent() + "\"");
+            jsonBuilder.append("},");
+            return jsonBuilder.toString();
         }
     }
 }
