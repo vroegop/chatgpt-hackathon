@@ -1,7 +1,9 @@
-# Welkom op de Accelerate ChatGPT Hackathon!
+# Welkom to the ChatGPT Hackathon!
 
-## Hoe werkt het?
-*Disclaimer: je moet uiteraard Node (recente versie) of Python3 installeren!*
+## Where do I start?
+*Install Node, Python3 or Java*
+
+*Add an API key to your desired stack: https://platform.openai.com/account/api-keys*
 
 * **HTML:**
   > cd html
@@ -20,12 +22,12 @@
   >
   > javac -d out *.java && java -cp out Index
 
-## Wat doen we?
+## The plan:
 
-Mogelijke onderwerpen:
+Create something awesome, like the following:
 
-* Creëer een DND Dungeon Master
-* Creëer een Lead Developer die jouw code checkt
-* Creëer een chatbot die Bosch producten verkoopt
-* Creëer een chatbot die jouw belastingaangifte helpt doen
-* Creëer een chatbot die Thales helpt werelddominatie te bereiken
+* DND Dungeon master (this is the default but it can be improved)
+* Lead Developer checking your code
+* Chatbot selling products
+* Chatbot helping you with your taxes
+* Chatbot helping you achieve world domination
